@@ -1,0 +1,30 @@
+body {
+    padding-top: 5rem;
+    background-image: url("img/1.jpg");
+    background-size: contain;
+    font-size: 20px;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.bgC {
+    background-color: black;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    /* For IE8 and earlier */
+}
+
+.bgC2 {
+    background-color: black;
+}
+
+.space {
+    padding-top: 2rem;
+}
+
+ul.b {
+    list-style-type: square;
+}
